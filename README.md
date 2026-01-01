@@ -33,4 +33,4 @@ streamlit run app/app.py
 
 https://www.kaggle.com/code/maryam1043/traffic-accident-analysis-injury-prediction/input
 
-download zip file then extract the file with data/raw folder 
+download zip file then extract the file with .....data/raw folder 
