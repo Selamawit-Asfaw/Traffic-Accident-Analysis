@@ -34,4 +34,5 @@ go to kaggle.com  then
 # type
 
 https://www.kaggle.com/code/maryam1043/traffic-accident-analysis-injury-prediction/input
+
 then download zip file 
