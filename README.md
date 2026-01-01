@@ -29,9 +29,7 @@ streamlit run app/app.py
 - models/: Trained machine learning models with metadata
 
 ## how to get the datasets
-go to kaggle.com  then
-
-# type
+# Click
 
 https://www.kaggle.com/code/maryam1043/traffic-accident-analysis-injury-prediction/input
 
