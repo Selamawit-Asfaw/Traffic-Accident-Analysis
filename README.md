@@ -27,3 +27,11 @@ streamlit run app/app.py
 - app/: Streamlit web application for interactive analysis and prediction
 - data/: Raw and processed traffic accident datasets
 - models/: Trained machine learning models with metadata
+
+## how to get the datasets
+go to kaggle.com  then
+
+# type
+
+https://www.kaggle.com/code/maryam1043/traffic-accident-analysis-injury-prediction/input
+then download zip file 
